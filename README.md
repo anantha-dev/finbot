@@ -1,6 +1,9 @@
 # FinBot — Advanced RAG Application
 FinBot is a production-grade RAG application developed for FinSolve Technologies (fictional). It enables employees to query internal knowledge bases via natural language, featuring strict Role-Based Access Control (RBAC) integrated directly into the vector retrieval layer
 
+<img width="766" height="620" alt="image" src="https://github.com/user-attachments/assets/534d2b35-e5b8-46cd-adbe-6e0d4e8e2a33" />
+
+
 ## Setup Instructions
 
 ### Prerequisites
