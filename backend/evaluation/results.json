@@ -1,0 +1,14 @@
+{
+  "ragas_scores": {
+    "faithfulness": 0.1451,
+    "answer_relevancy": 0.6259,
+    "context_precision": 0.9487,
+    "context_recall": 1.0,
+    "answer_correctness": 0.3587
+  },
+  "adversarial_results": {
+    "passed": 4,
+    "total": 4
+  },
+  "total_questions_evaluated": 39
+}
